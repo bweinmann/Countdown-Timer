@@ -1,0 +1,34 @@
+
+.App {
+  text-align: center;
+  display: grid;
+  justify-content: center;
+}
+
+.header {
+  margin-top: 5em;
+}
+
+.time-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  padding-top: 10em;
+}
+
+section{
+  padding: 1em;
+
+}
+
+.time-text {
+  font-size: 5em;
+  border-right: 1px solid #EFF5F6;
+  border-left: 1px solid #EFF5F6;
+}
+
+span {
+  font-size: 1.2em;
+  padding: 2em;
+}
+
+

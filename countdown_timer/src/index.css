@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body, html {
+  height: 100vh;
+  width: 100vw;
+}
+
+body {
+  margin: 0;
+  background-image: url(https://images.pexels.com/photos/6430096/pexels-photo-6430096.jpeg?cs=srgb&dl=pexels-francesco-ungaro-6430096.jpg&fm=jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+  color: #EFF5F6;
+  letter-spacing: .5em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
